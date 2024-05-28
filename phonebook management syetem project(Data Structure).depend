@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716918952 source:c:\users\asus\desktop\data structure project in c\phonebook management syetem project(data structure)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
